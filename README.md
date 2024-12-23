@@ -1,2 +1,2 @@
 # Infoseite zum Vortrag
-## Link zur Seite: https://github.com/MakerSpace-GYMNBB/38c3.github.io/blob/main/index.html
+## Link zur Seite: https://makerspace-gymnbb.github.io/38c3.github.io/
